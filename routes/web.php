@@ -31,3 +31,6 @@ Route::get('/products', function(){
 Route::get('/contact', function(){
     return view('contact');
 });
+Route::get('/login', function(){
+    return view('login');
+});
