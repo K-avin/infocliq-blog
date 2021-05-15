@@ -39,6 +39,8 @@
                                 <li class="nav-item"><a id="nav3" class="nav-link" href="portfolio">Portfolio</a></li>
                                 <li class="nav-item"><a id="nav4" class="nav-link" href="products">Our Products</a></li>
                                 <li class="nav-item"><a id="nav5" class="nav-link" href="contact">Contact</a></li>
+                                <li class="nav-item"><a id="nav5" class="nav-link" href="contact">Blog</a></li>
+                                <li class="nav-item"><a id="nav5" class="nav-link" href="contact">Login</a></li>
                             </ul>								
                         </div>
                     </nav>
